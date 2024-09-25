@@ -22,7 +22,7 @@ namespace Cart1
 
         private void UserCart_Load(object sender, EventArgs e)//draw items or get the block of items in menu and add it to usercart
         {
-            List<Cartitem> cartitems = new Globelcart().getCart(0); // 0 is for testing ya dodo change it with the userid later.
+            List<Cartitem> cartitems = new Globelcart().getCart(0); // 0 is for testing change it with the userid later.
                                                                     //get user cart
                                                                     //get items with the cart item ids
             var itemWidth = 100;
@@ -41,7 +41,7 @@ namespace Cart1
 
         private void Render()
         {
-          List<Cartitem> cartitems = new Globelcart().getCart(0); // 0 is for testing ya dodo change it with the userid later.
+          List<Cartitem> cartitems = new Globelcart().getCart(0); // 0 is for testing  change it with the userid later.
                                                                               //get user cart
                                                                               //get items with the cart item ids
         var itemWidth = 240;
