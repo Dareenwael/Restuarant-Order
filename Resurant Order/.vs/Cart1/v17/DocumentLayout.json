@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|c:\\users\\dareen\\desktop\\cart123 - copy (4)\\cart1\\cart1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|solutionrelative:cart1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\cart1\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|solutionrelative:cart1\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\cart1\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|solutionrelative:cart1\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\cart1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|solutionrelative:cart1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\cart1\\menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|solutionrelative:cart1\\menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\cart1\\menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|solutionrelative:cart1\\menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\cart1\\itemstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|solutionrelative:cart1\\itemstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\cart1\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|solutionrelative:cart1\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\cart1\\globelcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|solutionrelative:cart1\\globelcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\cart1\\item1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|solutionrelative:cart1\\item1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\cart1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|solutionrelative:cart1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\cart1\\usercart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|solutionrelative:cart1\\usercart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\cart1\\usercart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|solutionrelative:cart1\\usercart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\cart1\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|solutionrelative:cart1\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\cart1\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|solutionrelative:cart1\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\cart1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|solutionrelative:cart1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\cart1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D67811-4F36-4863-8496-93A5256CB6BF}|Cart1\\Cart1.csproj|solutionrelative:cart1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Receipt.cs",
+              "DocumentMoniker": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Receipt.cs",
+              "RelativeDocumentMoniker": "Cart1\\Receipt.cs",
+              "ToolTip": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Receipt.cs",
+              "RelativeToolTip": "Cart1\\Receipt.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwGMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:32:07.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserCart.cs",
+              "DocumentMoniker": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\UserCart.cs",
+              "RelativeDocumentMoniker": "Cart1\\UserCart.cs",
+              "ToolTip": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\UserCart.cs",
+              "RelativeToolTip": "Cart1\\UserCart.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:32:07.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Globelcart.cs",
+              "DocumentMoniker": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Globelcart.cs",
+              "RelativeDocumentMoniker": "Cart1\\Globelcart.cs",
+              "ToolTip": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Globelcart.cs",
+              "RelativeToolTip": "Cart1\\Globelcart.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:32:07.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu1.cs",
+              "DocumentMoniker": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Menu1.cs",
+              "RelativeDocumentMoniker": "Cart1\\Menu1.cs",
+              "ToolTip": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Menu1.cs",
+              "RelativeToolTip": "Cart1\\Menu1.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:32:07.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Program.cs",
+              "RelativeDocumentMoniker": "Cart1\\Program.cs",
+              "ToolTip": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Program.cs",
+              "RelativeToolTip": "Cart1\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:32:07.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cartitem.cs",
+              "DocumentMoniker": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Cartitem.cs",
+              "RelativeDocumentMoniker": "Cart1\\Cartitem.cs",
+              "ToolTip": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Cartitem.cs",
+              "RelativeToolTip": "Cart1\\Cartitem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:32:07.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Customer.cs",
+              "RelativeDocumentMoniker": "Cart1\\Customer.cs",
+              "ToolTip": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Customer.cs",
+              "RelativeToolTip": "Cart1\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:32:07.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Database.cs",
+              "RelativeDocumentMoniker": "Cart1\\Database.cs",
+              "ToolTip": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Database.cs",
+              "RelativeToolTip": "Cart1\\Database.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwBMAAACrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:32:07.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "item1.cs",
+              "DocumentMoniker": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\item1.cs",
+              "RelativeDocumentMoniker": "Cart1\\item1.cs",
+              "ToolTip": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\item1.cs",
+              "RelativeToolTip": "Cart1\\item1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:32:07.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "itemstore.cs",
+              "DocumentMoniker": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\itemstore.cs",
+              "RelativeDocumentMoniker": "Cart1\\itemstore.cs",
+              "ToolTip": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\itemstore.cs",
+              "RelativeToolTip": "Cart1\\itemstore.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:32:07.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserCart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\UserCart.cs",
+              "RelativeDocumentMoniker": "Cart1\\UserCart.cs",
+              "ToolTip": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\UserCart.cs [Design]",
+              "RelativeToolTip": "Cart1\\UserCart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:32:07.426Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Receipt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Receipt.cs",
+              "RelativeDocumentMoniker": "Cart1\\Receipt.cs",
+              "ToolTip": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Receipt.cs [Design]",
+              "RelativeToolTip": "Cart1\\Receipt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:32:07.428Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Menu1.cs",
+              "RelativeDocumentMoniker": "Cart1\\Menu1.cs",
+              "ToolTip": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Menu1.cs [Design]",
+              "RelativeToolTip": "Cart1\\Menu1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:32:07.429Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Login.cs",
+              "RelativeDocumentMoniker": "Cart1\\Login.cs",
+              "ToolTip": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Login.cs",
+              "RelativeToolTip": "Cart1\\Login.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:32:07.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Login.cs",
+              "RelativeDocumentMoniker": "Cart1\\Login.cs",
+              "ToolTip": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\Login.cs [Design]",
+              "RelativeToolTip": "Cart1\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:32:07.432Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "sign.cs",
+              "DocumentMoniker": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\sign.cs",
+              "RelativeDocumentMoniker": "Cart1\\sign.cs",
+              "ToolTip": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\sign.cs",
+              "RelativeToolTip": "Cart1\\sign.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:32:07.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sign.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\sign.cs",
+              "RelativeDocumentMoniker": "Cart1\\sign.cs",
+              "ToolTip": "C:\\Users\\Dareen\\Desktop\\Cart123 - Copy (4)\\Cart1\\Cart1\\sign.cs [Design]",
+              "RelativeToolTip": "Cart1\\sign.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:32:07.434Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
