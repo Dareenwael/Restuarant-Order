@@ -22,7 +22,7 @@ namespace Cart1
         private void Receipt_Load(object sender, EventArgs e)
         {
 
-            List<Cartitem> cartitems = new Globelcart().getCart(0); // 0 is for testing ya dodo change it with the userid later.
+            List<Cartitem> cartitems = new Globelcart().getCart(0); // 0 is for testing  change it with the userid later.
                                                                     //get user cart
                                                                     //get items with the cart item ids
             var itemWidth = 100;
