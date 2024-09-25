@@ -17,8 +17,8 @@ namespace Cart1
                 Name = "CheeseCake",
                 Quantity = 2,
                 Price = 1,
-                PicturePath="C:/Users/Dareen/Desktop/Bts/Cart123/Cart1/Cart1/Resources/Triple-Berry-No-Bake-Cheesecake_EXPS_TOHcom19_138951_B01_30_6b.jpg"
-
+                PicturePath="C:/Users/Dareen/Desktop/Bts/Cart123/Cart1/Cart1/Resources/Triple-Berry-No-Bake-Cheesecake_EXPS_TOHcom19_138951_B01_30_6b.jpg"//Change it to your own path
+                //Pictures in Resources Folder
             },
              new Item
             {
